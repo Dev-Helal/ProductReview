@@ -1,2 +1,2 @@
 # ProductReview
-Email Template
+Email Template for ProductReview
